@@ -1,0 +1,22 @@
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\bin\Debug\CaesarCode.exe.config
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\bin\Debug\CaesarCode.exe
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\bin\Debug\CaesarCode.pdb
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\obj\Debug\CaesarCode.csproj.AssemblyReference.cache
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\obj\Debug\CaesarCode.Form1.resources
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\obj\Debug\CaesarCode.Properties.Resources.resources
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\obj\Debug\CaesarCode.csproj.GenerateResource.cache
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\obj\Debug\CaesarCode.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\obj\Debug\CaesarCode.exe
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\obj\Debug\CaesarCode.pdb
+C:\Users\User\Documents\_OpenCV\CaesarCode\CaesarCode\obj\Debug\CaesarCode.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\bin\Debug\CaesarCode.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\bin\Debug\CaesarCode.exe
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\bin\Debug\CaesarCode.pdb
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\obj\Debug\CaesarCode.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\obj\Debug\CaesarCode.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\obj\Debug\CaesarCode.Form1.resources
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\obj\Debug\CaesarCode.Properties.Resources.resources
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\obj\Debug\CaesarCode.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\obj\Debug\CaesarCode.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\obj\Debug\CaesarCode.exe
+C:\Users\User\Desktop\Лабораторные\Лабораторная 1. Шифр Цезаря\CaesarCode\CaesarCode\obj\Debug\CaesarCode.pdb

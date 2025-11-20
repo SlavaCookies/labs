@@ -1,0 +1,22 @@
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\bin\Debug\ADFGVX.exe.config
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\bin\Debug\ADFGVX.exe
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\bin\Debug\ADFGVX.pdb
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\obj\Debug\ADFGVX.csproj.AssemblyReference.cache
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\obj\Debug\ADFGVX.Form1.resources
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\obj\Debug\ADFGVX.Properties.Resources.resources
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\obj\Debug\ADFGVX.csproj.GenerateResource.cache
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\obj\Debug\ADFGVX.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\obj\Debug\ADFGVX.exe
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\obj\Debug\ADFGVX.pdb
+C:\Users\User\Documents\_OpenCV\ADFGVX\ADFGVX\obj\Debug\ADFGVX.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\bin\Debug\ADFGVX.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\bin\Debug\ADFGVX.exe
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\bin\Debug\ADFGVX.pdb
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\obj\Debug\ADFGVX.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\obj\Debug\ADFGVX.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\obj\Debug\ADFGVX.Form1.resources
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\obj\Debug\ADFGVX.Properties.Resources.resources
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\obj\Debug\ADFGVX.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\obj\Debug\ADFGVX.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\obj\Debug\ADFGVX.exe
+C:\Users\User\Desktop\Лабораторные\Лабораторная 2. Шифр Первой Мировой\ADFGVX\ADFGVX\obj\Debug\ADFGVX.pdb

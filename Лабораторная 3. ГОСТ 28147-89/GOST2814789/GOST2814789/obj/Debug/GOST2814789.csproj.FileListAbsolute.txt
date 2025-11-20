@@ -1,0 +1,22 @@
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\bin\Debug\GOST2814789.exe.config
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\bin\Debug\GOST2814789.exe
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\bin\Debug\GOST2814789.pdb
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\obj\Debug\GOST2814789.csproj.AssemblyReference.cache
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\obj\Debug\GOST2814789.Form1.resources
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\obj\Debug\GOST2814789.Properties.Resources.resources
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\obj\Debug\GOST2814789.csproj.GenerateResource.cache
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\obj\Debug\GOST2814789.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\obj\Debug\GOST2814789.exe
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\obj\Debug\GOST2814789.pdb
+C:\Users\User\Documents\_OpenCV\GOST2814789\GOST2814789\obj\Debug\GOST2814789.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\bin\Debug\GOST2814789.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\bin\Debug\GOST2814789.exe
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\bin\Debug\GOST2814789.pdb
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\obj\Debug\GOST2814789.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\obj\Debug\GOST2814789.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\obj\Debug\GOST2814789.Form1.resources
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\obj\Debug\GOST2814789.Properties.Resources.resources
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\obj\Debug\GOST2814789.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\obj\Debug\GOST2814789.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\obj\Debug\GOST2814789.exe
+C:\Users\User\Desktop\Лабораторные\Лабораторная 3. ГОСТ 28147-89\GOST2814789\GOST2814789\obj\Debug\GOST2814789.pdb
