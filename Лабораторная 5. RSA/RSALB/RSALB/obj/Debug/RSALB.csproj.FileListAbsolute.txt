@@ -1,0 +1,22 @@
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\bin\Debug\RSALB.exe
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\bin\Debug\RSALB.exe.config
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\obj\Debug\RSALB.csproj.AssemblyReference.cache
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\obj\Debug\RSALB.Form1.resources
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\obj\Debug\RSALB.Properties.Resources.resources
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\obj\Debug\RSALB.csproj.GenerateResource.cache
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\obj\Debug\RSALB.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\obj\Debug\RSALB.exe
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\obj\Debug\RSALB.pdb
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\bin\Debug\RSALB.pdb
+C:\Users\User\Documents\_OpenCV\RSALB\RSALB\obj\Debug\RSALB.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\bin\Debug\RSALB.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\bin\Debug\RSALB.exe
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\bin\Debug\RSALB.pdb
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\obj\Debug\RSALB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\obj\Debug\RSALB.exe.config
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\obj\Debug\RSALB.Form1.resources
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\obj\Debug\RSALB.Properties.Resources.resources
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\obj\Debug\RSALB.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\obj\Debug\RSALB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\obj\Debug\RSALB.exe
+C:\Users\User\Desktop\Лабораторные\Лабораторная 5. RSA\RSALB\RSALB\obj\Debug\RSALB.pdb
